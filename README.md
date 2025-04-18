@@ -41,7 +41,9 @@ If you find this work helpful, please cite our paper:
 
 ---
 
-## 📬 Contact
+
+<!-- ## 📬 Contact
 
 For questions or collaborations, please reach out to [your.email@example.com].
 
+-->
